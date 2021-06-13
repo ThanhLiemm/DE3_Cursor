@@ -1,0 +1,10 @@
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\bin\Debug\Do_An_So3.exe.config
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\bin\Debug\Do_An_So3.exe
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\bin\Debug\Do_An_So3.pdb
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.csprojAssemblyReference.cache
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.frm1.resources
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.Properties.Resources.resources
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.csproj.GenerateResource.cache
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.csproj.CoreCompileInputs.cache
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.exe
+D:\School\ChuyenDeCNPM\DoAn\Do_An_So3\Do_An_So3\obj\Debug\Do_An_So3.pdb
